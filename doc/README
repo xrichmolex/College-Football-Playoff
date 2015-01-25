@@ -1,0 +1,14 @@
+Project Title:
+	Predicting Teams Best Suited for Participation in 
+	the College Football Playoff
+
+Project Members:
+	Richard E. Molina
+
+Instructions:
+
+  To run the program from terminal
+    Navigate to the directory in which the program is in
+	EX. cd /Documents/Program/
+    execute python script
+	EX. python playoff.py
